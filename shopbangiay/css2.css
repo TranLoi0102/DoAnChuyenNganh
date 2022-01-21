@@ -1,0 +1,211 @@
+.store {
+     padding: 90px 0px 40px 0px; border-top: #000 solid 1px;
+}
+.container {
+
+    max-width: 1168px;
+
+}
+.titlepage {
+     text-align: center;
+     padding-bottom: 50px;
+}
+.black_bg {margin-bottom: 50px;}
+.store .titlepage p {color: #6d6d6d; font-size: 17px; line-height: 28px;}
+.store .store_box {
+     text-align: left;
+}
+.store .titlepage p {color: #6d6d6d; font-size: 17px; line-height: 28px;}
+.store .store_box {
+     text-align: left;
+}
+.store .store_box h3 {color: #1a1a1a; font-size: 30px; font-weight: 501; line-height: 30px;}
+.store .store_box figure {
+     margin: 0;
+     box-shadow: #ddd 0px 0px 11px 1px;
+}
+
+.store .store_box figure img {
+     width: 100%;
+}
+
+.store .store_box p {
+     color: #6d6d6d;
+     font-size: 17px;
+     line-height: 28px;
+     padding: 25px 0px 35px 0px;
+}
+.store .store_box .read_more {
+     max-width: inherit; 
+     text-align: left; 
+     background: transparent; 
+     font-size: 17px; 
+     color: #000;
+     padding: 0;
+     font-weight: 500;
+}
+.store .store_box .read_more:hover {color: #fe0131;}
+.store .store_box .read_more {
+     max-width: inherit; 
+     text-align: left; 
+     background: transparent; 
+     font-size: 17px; 
+     color: #000;
+     padding: 0;
+     font-weight: 500;
+}
+.talk {
+     padding: 90px 0;
+     border-top: #000 solid 1px;
+     margin-top: 90px;
+}
+.wines h3 {
+ color: #181818;  
+ font-weight: 600;
+ font-size: 37px;
+line-height: 50px; 
+}
+
+.wines p {
+     font-size:17px; 
+     line-height: 32px; 
+     color: #232324; 
+     padding: 27px 0px 50px 0px;
+}
+.main_form .form_contril {
+     border: #615e5e solid 1px;
+     margin-bottom: 20px;
+     width: 100%;
+     height: 45px;
+     background: transparent;
+     color: #615e5e;
+     font-size: 17px;
+     border-top: 0;
+     border-right: 0;
+     border-left: 0;
+}
+
+.main_form .textarea {
+     border: #615e5e solid 1px;
+     margin-bottom: 20px;
+     width: 100%;
+     padding-top: 25px;
+     background: transparent;
+     color: #615e5e;
+     font-size: 17px;
+     border-top: 0;
+     border-right: 0;
+     border-left: 0;
+}
+
+.main_form .send_btn {
+     font-size: 17px;
+     transition: ease-in all 0.5s;
+     text-transform: uppercase;
+     background-color: #1d1c1d;
+     color: #fff;
+     padding: 13px 0px;
+     margin: 0 auto;
+     display: block;
+     margin-top: 30px;
+     width: 100%;
+     max-width: 190px;
+}
+
+.main_form .send_btn:hover {
+     background-color: #fe0131;
+     transition: ease-in all 0.5s;
+     color: #fff;
+     border-radius: 26px;
+}
+.main_form .form_contril {
+     border: #615e5e solid 1px;
+     margin-bottom: 20px;
+     width: 100%;
+     height: 45px;
+     background: transparent;
+     color: #615e5e;
+     font-size: 17px;
+     border-top: 0;
+     border-right: 0;
+     border-left: 0;
+}
+.main_form .textarea {
+     border: #615e5e solid 1px;
+     margin-bottom: 20px;
+     width: 100%;
+     padding-top: 25px;
+     background: transparent;
+     color: #615e5e;
+     font-size: 17px;
+     border-top: 0;
+     border-right: 0;
+     border-left: 0;
+}
+.main_form .send_btn {
+     font-size: 17px;
+     transition: ease-in all 0.5s;
+     text-transform: uppercase;
+     background-color: #1d1c1d;
+     color: #fff;
+     padding: 13px 0px;
+     margin: 0 auto;
+     display: block;
+     margin-top: 30px;
+     width: 100%;
+     max-width: 190px;
+}
+.page-navigation ul li.current-page a {
+     background-color: #3a8bcd;
+     border-color: #3a8bcd;
+     color: #fff;
+}
+.text-bg {
+     text-align: center;
+    
+}
+
+.text-bg h1 {
+     color: #070605;
+     font-size: 48px;
+     line-height: 65px;
+     font-weight: bold;
+     padding-bottom:40px;
+}
+
+
+.text-bg a {
+     font-size: 17px;
+     background-color: #1d1c1d;
+     color: #fff;
+     padding: 13px 0px;
+     width: 100%;
+     max-width: 190px;
+     text-align: center;
+     display: inline-block;
+     transition: ease-in all 0.5s;
+}
+
+.text-bg a:hover {
+     background-color: #fe0131;
+     color: #fff;
+     transition: ease-in all 0.5s;
+     border-radius: 26px;
+}
+.titlepage {
+     text-align: center;
+     padding-bottom: 50px;
+}
+
+.titlepage h2 {
+     font-size: 40px;
+     color: #1d1c1d;
+     line-height: 35px;
+     font-weight: bold;
+     padding: 0;
+     padding-bottom: 20px;
+}
+.store .titlepage p {color: #6d6d6d; font-size: 17px; line-height: 28px;}
+.store .store_box {
+     text-align: left;
+}
