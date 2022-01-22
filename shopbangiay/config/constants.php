@@ -3,7 +3,7 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
-define('DATABASE_NAME', 'test');
+define('DATABASE_NAME', 'ecommerceapp');
 
 define('CURRENCY', 'VND');
 
